@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "count": 0,
+		"name": "Blade",
+    "image": "./images/blade.jpg"
+  },
+
+  {
+    "id": 2,
+    "count": 0,
+		"name": "Chupa",
+    "image": "./images/Chupa.jpg"
+  },
+  {
+    "id": 3,
+    "count": 0,
+		"name": "Crease",
+    "image": "./images/crease.jpg"
+  },
+  {
+    "id": 4,
+    "count": 0,
+		"name": "Damiscinos",
+    "image": "./images/damascinos.jpg"
+  },
+  {
+    "id": 5,
+    "count": 0,
+		"name": "Dragonetti",
+    "image": "./images/dragonetti.png"
+  },
+  {
+    "id": 6,
+    "count": 0,
+		"name": "Frost",
+    "image": "./images/frost.jpg"
+  },
+  {
+    "id": 7,
+    "count": 0,
+		"name": "Karen",
+    "image": "./images/Karen_J.jpg"
+  },
+  {
+    "id": 8,
+    "count": 0,
+		"name": "Mecury",
+    "image": "./images/Mecury.jpg"
+  },
+  {
+    "id": 9,
+    "count": 0,
+		"name": "Quinn",
+    "image": "./images/quinn.jpg"
+  },
+  {
+    "id": 10,
+    "count": 0,
+		"name": "Reinhart",
+    "image": "./images/Reinhart.jpg"
+  },
+  {
+    "id": 11,
+    "count": 0,
+		"name": "Vanessa",
+    "image": "./images/Vanessa.jpg"
+  },
+  {
+    "id": 12,
+    "count": 0,
+		"name": "Whistler",
+    "image": "./images/Whistler.jpg"
+  }
+] 

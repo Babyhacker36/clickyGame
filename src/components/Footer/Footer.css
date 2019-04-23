@@ -1,0 +1,22 @@
+a,a:hover {
+    color: white;
+}
+
+table {
+    height: 50px;
+    background-color: #ff0000;
+    width: 100%;
+    color: white;
+}
+
+.spacer {
+    margin-bottom: 10px;
+}
+
+.fa-react {
+    margin-right: 5px;
+}
+
+.fa-github {
+    margin-left: 5px;
+}

@@ -1,0 +1,23 @@
+.header {
+  background-image: url(../../assets/images/bladeHeaderBackground.jpg);
+  background-size: 100% 100%;
+  min-height: 100px;
+  border-bottom: 5px solid black;
+}
+
+.bladeLogo {
+  background-image: url(../../assets/images/Blade-movie-logo.png);
+   background-size: 70% 70%;
+  background-repeat: no-repeat;
+  margin-top: 60px;
+  margin-bottom:-120px;
+  margin-left: 25%;
+  min-height: 300px;
+  width: 70%; 
+}
+
+.blackbox {
+  background-color: #000;
+  color:#fff;
+  
+}
