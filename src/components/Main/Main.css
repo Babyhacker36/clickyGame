@@ -1,3 +1,4 @@
+/* This section styles the css of the main page */
 .container {
     display: flex;
     flex-wrap: wrap;
@@ -6,7 +7,6 @@
     position: relative;
     
 }
-
 
 .incorrect {
   animation: shake 0.82s;
